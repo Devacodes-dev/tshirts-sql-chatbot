@@ -41,7 +41,8 @@ st.set_page_config(
 # ---------- Header ----------
 st.markdown(
     """
-    <h1 style="text-align:center;">👕Urban&Urbane-Shirts AI Assistant</h1>
+    <h1 style="text-align:center;">👕Urban&Urbane-Shirts</h1>
+    <h2 style="text-align:center;">AI Assistance</h2>
     <p style="text-align:center; color: gray;">
     Ask natural language questions about inventory
     </p>
